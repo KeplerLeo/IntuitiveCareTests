@@ -7,7 +7,7 @@
 # Como utilizar?
 
 Para utilizar o script é necessário a instalação do NodeJS LTS ou a versão mais recente 16.1.0 e do Git.
-Se quer saber como instala-los é só clicar em NodeJS(<https://nodejs.org/>) ou Git (<https://git-scm.com/>).
+Se quer saber como instala-los é só clicar em [NodeJS](<https://nodejs.org/>) ou [Git](<https://git-scm.com/>).
 
 Com o Git e o NodeJS instalado o próximo passo é fazer o dowload/clone do repositório, para isso você deve abrir o terminal e digitar o seguinte comando:
 
@@ -31,4 +31,4 @@ O navegador deve abrir e executar os passos do script, ao final do processo ele 
 
 # Contato
 
-Qualquer dúvida ou informação é só enviar pelo email: (<mailto:leokepler@gmail.com>)
+Qualquer dúvida ou informação é só enviar pelo email: [leokepler@gmail.com](<mailto:leokepler@gmail.com>)
